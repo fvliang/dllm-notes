@@ -2,6 +2,12 @@
 
 This repository contains my personal study notes, lecture slides, and research papers related to Deep Learning for Language Models (DLLM).
 
+由于：
+- dllm理论涉及大量公式，obsidian支持渲染markdowm中的latex公式，公式更加阅读
+- 为了整理我平时和llm交互学习的有用问答，而llm输出是markdown格式的
+- 语雀等笔记软件感觉记录公式不方便，而且不通用
+故用obsidian作为整理资料的软件，将公式和平时一些学习资料记录在markdown文件中，多设备通过git还可以同步
+
 ## 📚 Table of Contents
 
 - [CS236: Deep Generative Models](#cs236-deep-generative-models)
@@ -43,7 +49,7 @@ Key research papers in the field of deep learning and language models:
 - [Simple and Effective dLLM](papers/Simple-and-Effective-dllm.pdf)
 - [Time-Agnostic MDM](papers/timeAgnostic-MDM.pdf)
 
-## Study Notes
+## Study Notes(直接用obsidian app打开)
 
 - [SEDD: 深度学习的奠基之作 (ICML24 最佳论文)](SEDD：dllm%20奠基之作（ICML24%20best%20paper）.md)
 - [VAE: 变分自编码器](VAE：变分编码器.md)
