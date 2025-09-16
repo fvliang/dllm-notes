@@ -3,10 +3,12 @@
 This repository contains my personal study notes, lecture slides, and research papers related to Deep Learning for Language Models (DLLM).
 
 由于：
-- dllm理论涉及大量公式，obsidian支持渲染markdowm中的latex公式，公式更加阅读
-- 为了整理我平时和llm交互学习的有用问答，而llm输出是markdown格式的
-- 语雀等笔记软件感觉记录公式不方便，而且不通用
-故用obsidian作为整理资料的软件，将公式和平时一些学习资料记录在markdown文件中，多设备通过git还可以同步
+- dllm理论涉及大量公式，obsidian支持渲染markdowm中的latex公式，公式更加方便阅读。
+- 为了整理我平时和llm交互学习的有用问答，而llm输出是markdown格式的。
+- 语雀等笔记软件感觉记录公式不方便，而且不通用。
+
+---
+故用obsidian作为整理资料的软件，将公式和平时一些学习资料记录在markdown文件中，多设备通过git还可以同步。
 
 ## 📚 Table of Contents
 
