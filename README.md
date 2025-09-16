@@ -53,7 +53,7 @@ Key research papers in the field of deep learning and language models:
 
 ## Study Notes(直接用obsidian app打开)
 
-- [SEDD: 深度学习的奠基之作 (ICML24 最佳论文)](SEDD：dllm%20奠基之作（ICML24%20best%20paper）.md)
+- [SEDD: 深度学习的奠基之作 (ICML24 最佳论文)](SEDD：dllm%20奠基之作.md)
 - [VAE: 变分自编码器](VAE：变分编码器.md)
 - [VAE 总结](VAE-conclusion.pptx)
 - [Grok Prompt 指南](Grok%20prompt.md)

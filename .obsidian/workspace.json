@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SEDD：dllm 奠基之作（ICML24 best paper）.md",
-                "mode": "preview",
+                "file": "RADD：SEDD的改进版.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SEDD：dllm 奠基之作（ICML24 best paper）"
+              "title": "RADD：SEDD的改进版"
             }
           }
         ],
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SEDD：dllm 奠基之作（ICML24 best paper）.md",
+                "file": "RADD：SEDD的改进版.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "SEDD：dllm 奠基之作（ICML24 best paper） 的大纲"
+              "title": "RADD：SEDD的改进版 的大纲"
             }
           }
         ],
@@ -184,11 +184,13 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "86e38ad85a5e2ce1",
+  "active": "ad8097f0b4992d1e",
   "lastOpenFiles": [
     "Grok prompt.md",
-    "SEDD：dllm 奠基之作（ICML24 best paper）.md",
+    "RADD：SEDD的改进版.md",
+    "SEDD：dllm 奠基之作.md",
     "VAE：变分编码器.md",
+    "README.md",
     "cs236-ppt/~$cs236_lecture13.pptx",
     "cs236-ppt/cs236_lecture5.pdf",
     "cs236-ppt/cs236_lecture2.pdf",

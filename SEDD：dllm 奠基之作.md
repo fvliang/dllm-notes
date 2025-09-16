@@ -1,4 +1,4 @@
-# Tweedie τ-leaping推导讲解（来自DS）
+# 一：Tweedie τ-leaping推导讲解（来自DS）
 
 本文涉及两个定理：**Theorem 4.1**（离散 Tweedie 定理）和 **Theorem 4.2**（Tweedie τ-leaping 的最优性）。我将逐步推导这些结论，并解释其背后的直觉。
 
@@ -88,7 +88,7 @@ $\left( \exp(-\sigma^{\Delta t}_t Q)s_\theta(\mathbf{x}_t, t)_i \right)_{x^i_{t-
 
 如果您需要更详细的数学推导或有特定问题，请随时告知！
 
-# 采样示例（来自Grok）
+# 二：采样示例（来自Grok3）
 下面我们将为 **SEDD Absorb** 版本（即使用吸收状态转移矩阵 $Q^{\text{absorb}}$，也称为mask版本）重新举例，详细且严谨地计算使用 **Tweedie $\tau$-leaping** 采样的过程。SEDD Absorb 通过引入 MASK 吸收状态（类似于 BERT 的掩码机制）来模拟扩散过程，其中非 MASK 状态会逐步转移到 MASK 状态作为基础分布 $p\_T \approx p\_{\text{base}}$（全 MASK）。以下计算基于论文页面4的公式16（$Q^{\text{absorb}}$ 定义）和页面5的公式19（Tweedie $\tau$-leaping），以及整体反向过程框架（公式8）。
 
 ### 步骤 1: 问题设置
